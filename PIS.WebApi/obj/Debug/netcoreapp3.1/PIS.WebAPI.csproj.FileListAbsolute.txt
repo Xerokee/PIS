@@ -1,0 +1,136 @@
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.exe
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.deps.json
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.runtimeconfig.json
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.runtimeconfig.dev.json
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Model.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.Common.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.Common.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.Common.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.AssemblyInfo.cs
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\PIS.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\PIS.WebAPI.StaticWebAssets.Pack.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PIS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PIS.WebAPI.props
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PIS.WebAPI.props
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PIS.WebAPI.props
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.csproj.CopyComplete
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.dll
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.pdb
+C:\Users\Matija\Documents\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.genruntimeconfig.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.exe
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.deps.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.runtimeconfig.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.runtimeconfig.dev.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.WebAPI.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Model.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.Common.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.Common.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Service.Common.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.csproj.AssemblyReference.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.AssemblyInfoInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.AssemblyInfo.cs
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\PIS.WebAPI.StaticWebAssets.Manifest.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\PIS.WebAPI.StaticWebAssets.Pack.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PIS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PIS.WebAPI.props
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PIS.WebAPI.props
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PIS.WebAPI.props
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.csproj.CopyComplete
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.genruntimeconfig.cache

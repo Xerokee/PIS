@@ -1,0 +1,42 @@
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.deps.json
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.pdb
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Model.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.Common.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.Common.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.Common.pdb
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.pdb
+C:\Users\Matija\Documents\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.csproj.AssemblyReference.cache
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.AssemblyInfoInputs.cache
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.AssemblyInfo.cs
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.csproj.CopyComplete
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.dll
+C:\Users\Matija\Documents\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.deps.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Model.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.Common.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.Common.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Service.Common.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\bin\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.csproj.AssemblyReference.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.AssemblyInfoInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.AssemblyInfo.cs
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.csproj.CoreCompileInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.csproj.CopyComplete
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Service\obj\Debug\netcoreapp3.1\PIS.Service.pdb

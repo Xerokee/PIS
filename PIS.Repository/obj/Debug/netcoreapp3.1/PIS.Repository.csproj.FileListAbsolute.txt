@@ -1,0 +1,34 @@
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.deps.json
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.dll
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.pdb
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Model.dll
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.Common.dll
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
+C:\Users\Matija\Documents\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.csproj.AssemblyReference.cache
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.AssemblyInfoInputs.cache
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.AssemblyInfo.cs
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.csproj.CopyComplete
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.dll
+C:\Users\Matija\Documents\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.deps.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Model.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.Common.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.csproj.AssemblyReference.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.AssemblyInfoInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.AssemblyInfo.cs
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.csproj.CoreCompileInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.csproj.CopyComplete
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository\obj\Debug\netcoreapp3.1\PIS.Repository.pdb

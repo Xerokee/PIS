@@ -1,0 +1,26 @@
+C:\Users\Matija\Documents\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.deps.json
+C:\Users\Matija\Documents\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.runtimeconfig.json
+C:\Users\Matija\Documents\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.runtimeconfig.dev.json
+C:\Users\Matija\Documents\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+C:\Users\Matija\Documents\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.csproj.AssemblyReference.cache
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.AssemblyInfoInputs.cache
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.AssemblyInfo.cs
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.dll
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.pdb
+C:\Users\Matija\Documents\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.genruntimeconfig.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.deps.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.runtimeconfig.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.runtimeconfig.dev.json
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.csproj.AssemblyReference.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.AssemblyInfoInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.AssemblyInfo.cs
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.csproj.CoreCompileInputs.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.pdb
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS\obj\Debug\netcoreapp3.1\PIS.DAL.genruntimeconfig.cache
