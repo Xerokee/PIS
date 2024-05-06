@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PIS.Common;
 using PIS.DAL.DataModel;
 using PIS.Model;
+using PIS.Service;
 using PIS.Service.Common;
 using PIS.WebAPI.RESTModel;
 using System;
@@ -15,9 +17,12 @@ namespace PIS.WebAPI.Controllers
     public class HomeController : Controller
     {
         protected IService _service { get; private set; }
+        private int _requestUserId;
+
         public HomeController(IService service)
         {
             _service = service;
+            _requestUserId = -1;
         }
         [HttpGet]
         [Route("test")]
@@ -35,11 +40,11 @@ namespace PIS.WebAPI.Controllers
         }
         [HttpGet]
         [Route("Users")]
-        public List<UsersDomain> GetAllUsers()
+        public async Task<Tuple<IEnumerable<UsersDomain>, List<ErrorMessage>>> GetAllUsers()
         {
-            List<UsersDomain> users = (List<UsersDomain>)_service.GetAllUsers();
+            Tuple<IEnumerable<UsersDomain>, List<ErrorMessage>> result = await _service.GetAllUsers();
 
-            return users;
+            return result;
         }
         [HttpGet]
         [Route("Users/user_id/{userid}")]
@@ -52,36 +57,66 @@ namespace PIS.WebAPI.Controllers
         [Route("add")]
         public async Task<IActionResult> AddUserAsync([FromBody] UsersDomain userRest)
         {
-            try
+            bool lastrequestId = await GetLastUserRequestId();
+
+            if (!lastrequestId)
             {
-                if (!ModelState.IsValid)
-                {
-                    return BadRequest(ModelState);
-                }
-                else
-                {
-                    UsersDomain userDomain = new UsersDomain();
-                    userDomain.UserLoginName = userRest.UserLoginName;
-                    userDomain.UserName = userRest.UserName;
-                    userDomain.UserSurname = userRest.UserSurname;
+                return BadRequest("Nije unesen RequestUserId korisnika koji poziva.");
 
-                    bool add_user = await _service.AddUserAsync(userDomain);
+            }
+            else
+            {
 
-                    if (add_user)
+                try
+                {
+                    if (!ModelState.IsValid)
                     {
-
-                        return Ok("User dodan!");
+                        return BadRequest(ModelState);
                     }
                     else
                     {
-                        return Ok("User nije dodan!");
+                        UsersDomain userDomain = new UsersDomain();
+                        userDomain.UserLoginName = userRest.UserLoginName;
+                        userDomain.UserName = userRest.UserName;
+                        userDomain.UserSurname = userRest.UserSurname;
+
+                        bool add_user = await _service.AddUserAsync(userDomain);
+
+                        if (add_user)
+                        {
+
+                            return Ok("User dodan!");
+                        }
+                        else
+                        {
+                            return Ok("User nije dodan!");
+                        }
                     }
+
+                }
+                catch (Exception e)
+                {
+                    return StatusCode(StatusCodes.Status500InternalServerError, e.ToString());
                 }
             }
-            catch (Exception e)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, e.ToString());
-            }
+
         }
+        #region AdditionalCustomFunctions
+        public async Task<bool> GetLastUserRequestId()
+        {
+            IHeaderDictionary headers = this.Request.Headers;
+            if (headers.ContainsKey("RequestUserId"))
+            {
+                if (int.TryParse(headers["RequestUserId"].ToString(), out _requestUserId))
+                {
+                    return await _service.IsValidUser(_requestUserId);
+                    //return true;
+                }
+                else return false;
+            }
+            return false;
+
+        }
+        #endregion AdditionalCustomFunctions
     }
 }
