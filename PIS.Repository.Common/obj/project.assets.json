@@ -1439,16 +1439,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "PIS.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/PIS.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PIS.Common.dll": {}
-        }
-      },
       "PIS.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5140,15 +5130,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "PIS.Common/1.0.0": {
-      "type": "project",
-      "path": "../PIS.Common/PIS.Common.csproj",
-      "msbuildProject": "../PIS.Common/PIS.Common.csproj"
-    },
     "PIS.DAL/1.0.0": {
       "type": "project",
-      "path": "../PIS/PIS.DAL.csproj",
-      "msbuildProject": "../PIS/PIS.DAL.csproj"
+      "path": "../PIS.DAL/PIS.DAL.csproj",
+      "msbuildProject": "../PIS.DAL/PIS.DAL.csproj"
     },
     "PIS.Model/1.0.0": {
       "type": "project",
@@ -5158,7 +5143,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "PIS.Common >= 1.0.0",
       "PIS.DAL >= 1.0.0",
       "PIS.Model >= 1.0.0"
     ]
@@ -5195,14 +5179,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Common\\PIS.Common.csproj": {
-              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Common\\PIS.Common.csproj"
+            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.DAL\\PIS.DAL.csproj": {
+              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.DAL\\PIS.DAL.csproj"
             },
             "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Model\\PIS.Model.csproj": {
               "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Model\\PIS.Model.csproj"
-            },
-            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS\\PIS.DAL.csproj": {
-              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS\\PIS.DAL.csproj"
             }
           }
         }

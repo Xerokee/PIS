@@ -5119,8 +5119,8 @@
     },
     "PIS.DAL/1.0.0": {
       "type": "project",
-      "path": "../PIS/PIS.DAL.csproj",
-      "msbuildProject": "../PIS/PIS.DAL.csproj"
+      "path": "../PIS.DAL/PIS.DAL.csproj",
+      "msbuildProject": "../PIS.DAL/PIS.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5160,8 +5160,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS\\PIS.DAL.csproj": {
-              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS\\PIS.DAL.csproj"
+            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.DAL\\PIS.DAL.csproj": {
+              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.DAL\\PIS.DAL.csproj"
             }
           }
         }

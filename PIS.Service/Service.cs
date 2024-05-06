@@ -39,7 +39,7 @@ namespace PIS.Service
         //	}
         //}
 
-        public IEnumerable<PisUsersMmargeta> GetAllUsersDb()
+        public IEnumerable<PisUsersMmargeta    > GetAllUsersDb()
         {
             IEnumerable<PisUsersMmargeta> userDb = _repository.GetAllUsersDb();
             return userDb;

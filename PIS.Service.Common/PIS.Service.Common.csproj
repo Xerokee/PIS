@@ -6,10 +6,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PIS.Common\PIS.Common.csproj" />
+    <ProjectReference Include="..\PIS.DAL\PIS.DAL.csproj" />
     <ProjectReference Include="..\PIS.Model\PIS.Model.csproj" />
     <ProjectReference Include="..\PIS.Repository.Common\PIS.Repository.Common.csproj" />
     <ProjectReference Include="..\PIS.Repository\PIS.Repository.csproj" />
-    <ProjectReference Include="..\PIS\PIS.DAL.csproj" />
   </ItemGroup>
 
 </Project>

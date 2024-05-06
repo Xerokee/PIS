@@ -1496,7 +1496,6 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "AutoMapper": "12.0.1",
-          "PIS.Common": "1.0.0",
           "PIS.DAL": "1.0.0",
           "PIS.Model": "1.0.0",
           "PIS.Repository.Common": "1.0.0"
@@ -1512,7 +1511,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "PIS.Common": "1.0.0",
           "PIS.DAL": "1.0.0",
           "PIS.Model": "1.0.0"
         },
@@ -5211,8 +5209,8 @@
     },
     "PIS.DAL/1.0.0": {
       "type": "project",
-      "path": "../PIS/PIS.DAL.csproj",
-      "msbuildProject": "../PIS/PIS.DAL.csproj"
+      "path": "../PIS.DAL/PIS.DAL.csproj",
+      "msbuildProject": "../PIS.DAL/PIS.DAL.csproj"
     },
     "PIS.Model/1.0.0": {
       "type": "project",
@@ -5274,6 +5272,9 @@
             "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Common\\PIS.Common.csproj": {
               "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Common\\PIS.Common.csproj"
             },
+            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.DAL\\PIS.DAL.csproj": {
+              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.DAL\\PIS.DAL.csproj"
+            },
             "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Model\\PIS.Model.csproj": {
               "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Model\\PIS.Model.csproj"
             },
@@ -5282,9 +5283,6 @@
             },
             "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Repository\\PIS.Repository.csproj": {
               "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Repository\\PIS.Repository.csproj"
-            },
-            "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS\\PIS.DAL.csproj": {
-              "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS\\PIS.DAL.csproj"
             }
           }
         }

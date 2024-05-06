@@ -28,5 +28,3 @@ D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository.Common\obj\Debu
 D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository.Common\obj\Debug\netcoreapp3.1\PIS.Repository.Common.csproj.CopyComplete
 D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository.Common\obj\Debug\netcoreapp3.1\PIS.Repository.Common.dll
 D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository.Common\obj\Debug\netcoreapp3.1\PIS.Repository.Common.pdb
-D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository.Common\bin\Debug\netcoreapp3.1\PIS.Common.dll
-D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.Repository.Common\bin\Debug\netcoreapp3.1\PIS.Common.pdb

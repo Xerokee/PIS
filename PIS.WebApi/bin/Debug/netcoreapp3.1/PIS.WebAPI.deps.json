@@ -1227,7 +1227,6 @@
       "PIS.Repository/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
-          "PIS.Common": "1.0.0",
           "PIS.DAL": "1.0.0",
           "PIS.Model": "1.0.0",
           "PIS.Repository.Common": "1.0.0"
@@ -1241,7 +1240,6 @@
       },
       "PIS.Repository.Common/1.0.0": {
         "dependencies": {
-          "PIS.Common": "1.0.0",
           "PIS.DAL": "1.0.0",
           "PIS.Model": "1.0.0"
         },
