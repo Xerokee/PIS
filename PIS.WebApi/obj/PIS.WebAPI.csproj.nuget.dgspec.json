@@ -442,6 +442,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Common\\PIS.Common.csproj": {
+                "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Common\\PIS.Common.csproj"
+              },
               "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Service\\PIS.Service.csproj": {
                 "projectPath": "D:\\Vuv 3\\Projektiranje informacijskih sustava\\PIS\\PIS.Service\\PIS.Service.csproj"
               }

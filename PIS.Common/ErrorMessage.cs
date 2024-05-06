@@ -6,10 +6,11 @@ namespace PIS.Common
 {
     public class ErrorMessage
     {
-        public ErrorMessage(string message)
+        public ErrorMessage()
         {
+
         }
-        public ErrorMessage(ErrorMessage message)
+        public ErrorMessage(string message)
         {
             Message = Message;
         }
