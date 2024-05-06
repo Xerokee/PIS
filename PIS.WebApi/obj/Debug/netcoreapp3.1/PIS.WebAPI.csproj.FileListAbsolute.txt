@@ -134,3 +134,5 @@ D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreap
 D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.dll
 D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.pdb
 D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\obj\Debug\netcoreapp3.1\PIS.WebAPI.genruntimeconfig.cache
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Common.dll
+D:\Vuv 3\Projektiranje informacijskih sustava\PIS\PIS.WebApi\bin\Debug\netcoreapp3.1\PIS.Common.pdb

@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.DAL", "PIS\PIS.DAL.csproj", "{3D7845DF-7B11-4AB1-852D-584987A61FD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.DAL", "PIS\PIS.DAL.csproj", "{3D7845DF-7B11-4AB1-852D-584987A61FD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.Model", "PIS.Model\PIS.Model.csproj", "{E4339BC3-09B1-4AA5-BA21-03E8EFCF5F60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.Model", "PIS.Model\PIS.Model.csproj", "{E4339BC3-09B1-4AA5-BA21-03E8EFCF5F60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.Repository", "PIS.Repository\PIS.Repository.csproj", "{FB00194A-CF41-453A-81CB-8EAC9A523208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.Repository", "PIS.Repository\PIS.Repository.csproj", "{FB00194A-CF41-453A-81CB-8EAC9A523208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.Repository.Common", "PIS.Repository.Common\PIS.Repository.Common.csproj", "{84A68610-685D-4E59-BAB2-6D3954798AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.Repository.Common", "PIS.Repository.Common\PIS.Repository.Common.csproj", "{84A68610-685D-4E59-BAB2-6D3954798AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.Service", "PIS.Service\PIS.Service.csproj", "{E201B43C-E4C7-40A9-8E3E-8500A66EF502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.Service", "PIS.Service\PIS.Service.csproj", "{E201B43C-E4C7-40A9-8E3E-8500A66EF502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.Service.Common", "PIS.Service.Common\PIS.Service.Common.csproj", "{3E479972-6ABF-439B-9584-6F18909E89E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.Service.Common", "PIS.Service.Common\PIS.Service.Common.csproj", "{3E479972-6ABF-439B-9584-6F18909E89E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.WebAPI", "PIS.WebApi\PIS.WebAPI.csproj", "{A6635F94-9F27-4106-A0D6-56C514243777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS.WebAPI", "PIS.WebApi\PIS.WebAPI.csproj", "{A6635F94-9F27-4106-A0D6-56C514243777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.Common", "PIS.Common\PIS.Common.csproj", "{BB4B7EFC-E872-4ACC-85C4-05B06132D7A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A6635F94-9F27-4106-A0D6-56C514243777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6635F94-9F27-4106-A0D6-56C514243777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6635F94-9F27-4106-A0D6-56C514243777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4B7EFC-E872-4ACC-85C4-05B06132D7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4B7EFC-E872-4ACC-85C4-05B06132D7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4B7EFC-E872-4ACC-85C4-05B06132D7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4B7EFC-E872-4ACC-85C4-05B06132D7A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
