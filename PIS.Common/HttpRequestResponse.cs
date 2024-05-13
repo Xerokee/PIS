@@ -25,5 +25,12 @@ namespace PIS.Common
             ErrorMessages.Add(new ErrorMessage (message));
             return this;
         }
+
+        //public HttpRequestResponse<T> AddErrorMessages(ErrorMessage error)
+        //{
+        //	ErrorMessages.Add(error);
+        //	return this;
+
+        //}
     }
 }
