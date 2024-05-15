@@ -64,19 +64,19 @@ namespace PIS.WebAPI.Controllers
         [Route("Users/user_id/{userid}")]
         public async Task<IActionResult> GetUserDomainByUserId(int userId)
         {
-            HttpRequestResponse<IEnumerable<UsersDomain>> response = new HttpRequestResponse<IEnumerable<UsersDomain>>();
+            HttpRequestResponse<UsersDomain> response = new HttpRequestResponse<UsersDomain>();
 
             Tuple<UsersDomain, List<ErrorMessage>> result = await _service.GetUserDomainByUserId(userId);
 
             if (result != null)
             {
-                response.Result = (IEnumerable<UsersDomain>)result.Item1;
+                response.Result = result.Item1;
                 response.ErrorMessages = result.Item2;
                 return Ok(response);
             }
             else
             {
-                response.Result = (IEnumerable<UsersDomain>)result.Item1;
+                response.Result = result.Item1;
                 response.ErrorMessages = result.Item2;
                 return Ok(response);
             }
